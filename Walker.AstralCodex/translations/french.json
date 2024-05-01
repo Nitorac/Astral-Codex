@@ -39,24 +39,24 @@
         "That can't have been real, right? I must have had too much sap wine recently. I'm going back to the village and never camping here again. Hornfels can make one of the other travelers go find a core.": "C'est pas réel, hein ? Je sirote probablement un peu trop de vin en ce moment. Je vais retourner au village et plus jamais camper ici. Cornée pourra convaincre un autre voyageur de trouver un générateur à distorsion.",
 
         // Chert
-        "Chert’s Research Notes — property of Chert!": "Chertの調査メモ — Chertの私物！",
-        "This is the only known Nomai construction on <![CDATA[<Color=lightblue>]]>Dark Bramble<![CDATA[</Color>]]>. Interestingly, its material places it as one of the newest Nomai structures I've explored.": "これは<![CDATA[<Color=lightblue>]]>闇のイバラ<![CDATA[</Color>]]>で知られている唯一のNomaiの建造物だ。興味深いことに、資料によればこれは私が調査した中で最も新しいNomaiの建造物の1つとされている。",
-        "It looks like construction was never finished. Was it abandoned? Or did something happen to the Nomai here?": "建築はまだ終わってないように見える。放棄されたのか？それともここでNomaiに何かあったのか？",
-        "The probe down on the observation deck is clearly used for research of some sort. But what were they studying?": "展望台にある探査機は明らかに何らかの研究に使われている。だが、彼らは何を研究していたのだろう？",
-        "There's also that device mounted to the probe. I know I've seen devices like it in other Nomai ruins but this one seems to be deactivated.": "探査機にはあの装置も取り付けられている。他のNomaiの遺跡でも似たようなものを見たことがあるが、この装置は無効化されてるようだ。",
-        "Oh hey, I just spotted a supernova while taking down camp. Those are normally pretty rare. Neat!": "ああそうだ、キャンプの撤収中に超新星を発見した。普段それはかなり珍しいんだ。運がいい！&lt;i&gt;&lt;/i&gt;",
+        "Chert’s Research Notes — property of Chert!": "Notes de recherche de Chail — propriété de Chail !",
+        "This is the only known Nomai construction on <![CDATA[<Color=lightblue>]]>Dark Bramble<![CDATA[</Color>]]>. Interestingly, its material places it as one of the newest Nomai structures I've explored.": "C'est la seule construction Nomaï connue sur <![CDATA[<Color=lightblue>]]>Sombronces<![CDATA[</Color>]]>. Curieusement, son matériau en fait l'une des structures Nomaï les plus récentes de mes explorations.",
+        "It looks like construction was never finished. Was it abandoned? Or did something happen to the Nomai here?": "On dirait que la construction n'a jamais été terminée. Est-ce qu'elle a été abandonnée ? Ou est-ce que quelque chose s'est produit sur les Nomaï ici ?",
+        "The probe down on the observation deck is clearly used for research of some sort. But what were they studying?": "La sonde nichée sur le module d'observation doit être sûrement utilisée pour une sorte de recherche. Mais qu'est-ce qu'ils étudiaient ?",
+        "There's also that device mounted to the probe. I know I've seen devices like it in other Nomai ruins but this one seems to be deactivated.": "Il y a aussi un appareil monté sur la sonde. Il me semble que j'en ai déjà vu des similaires dans d'autres ruines Nomaï, mais celui-ci semble désactivé.",
+        "Oh hey, I just spotted a supernova while taking down camp. Those are normally pretty rare. Neat!": "Oh tiens, je viens de remarquer une supernova pendant que je posais mon camp. C'est un phénomène assez rare d'habitude. Sympa !",
 
         // ParadoxSelf
-        "It worked! We increased the population!": "うまくいった！人口を増やせた！",
-        "Glad I could help! Teamwork makes the dream work after all.": "役に立ててよかった！やはりチームワークが夢を実現させるんだ。",
-        "At least I think I remember Hal saying that once.": "少なくとも、Halが一度そう言ったのを覚えてると思う。",
-        "I can't believe the population quota we needed was just barely in reach.": "必要な人口割り当てがギリギリで達成できたとは信じられない。",
-        "What a coincidence!": "なんて偶然だ！",
+        "It worked! We increased the population!": "Ça a marché ! On a augmenté la population !",
+        "Glad I could help! Teamwork makes the dream work after all.": "Heureux d'avoir pu aider ! L'union fait la force après tout.",
+        "At least I think I remember Hal saying that once.": "Du moins, il me semble que Hal disait ça.",
+        "I can't believe the population quota we needed was just barely in reach.": "Je n'arrive pas à croire que le quota de population requis était juste à portée de main.",
+        "What a coincidence!": "Quelle coïncidence !",
 
         // Computer on Giant's Deep
-        "Anomaly matching partial criteria for the <![CDATA[<Color=lightblue>]]>Eye of the Universe<![CDATA[</Color>]]> impacted by probe 78,809. Coordinates recorded.": "探査機 78,809が衝突した<![CDATA[<Color=lightblue>]]>宇宙の眼<![CDATA[</Color>]]>と部分的に基準が一致する異常。座標を記録しました。",
-        "Firing signal received, retrieving stored coordinates. Launching secondary probe. Secondary probe arrived at destination.": "発射信号受信、保存されていた座標を読み出しています。第2探査機発射中。第2探査機は目的地に到着しました。",
-        "Initiating visual link. Projection stone generated. Connection unstable.": "視覚化リンク開始中。プロジェクションストーンを生成しました。接続は不安定です。",
+        "Anomaly matching partial criteria for the <![CDATA[<Color=lightblue>]]>Eye of the Universe<![CDATA[</Color>]]> impacted by probe 78,809. Coordinates recorded.": "Anomalie respectant partiellement les critères de l'<![CDATA[<Color=lightblue>]]>Œil de l'univers<![CDATA[</Color>]]> touché par la sonde 78 809. Coordonnées enregistrées.",
+        "Firing signal received, retrieving stored coordinates. Launching secondary probe. Secondary probe arrived at destination.": "Signal reçu, récupération des coordonnées enregistrées. Lancement de la sonde secondaire. Sonde secondaire arrivée à destination.",
+        "Initiating visual link. Projection stone generated. Connection unstable.": "Initialisation du lien visuel. Pierre de projection générée. Connexion instable.",
 
         // Nomai on Hourglass Twins
         "ANNONA: Welcome to <![CDATA[<Color=lightblue>]]>Ember Twin<![CDATA[</Color>]]>, my friends! It is good to see you again after so long apart. Observation: we must develop a better means of interplanetary travel so that we can be properly reunited (perhaps warp travel could be recreated with the right equipment).": "ANNONA:<![CDATA[<Color=lightblue>]]>燃え盛る双子星<![CDATA[</Color>]]>へようこそ！ここまで長かったが、再び会えて嬉しいよ。意見:我々は問題なく合流できるように、惑星間航行をするためのより良い手段を開発しなければならない(おそらくワープ移動は適切な機器で再現できる)。",
